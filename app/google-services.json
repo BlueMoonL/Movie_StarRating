@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841466502573",
+    "project_id": "ch29-moviestarrating",
+    "storage_bucket": "ch29-moviestarrating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841466502573:android:5452363f655865c5d79524",
+        "android_client_info": {
+          "package_name": "com.bluemoonl.ch29_movie_starrating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841466502573-staa8rc16umi9m1k41u08re4aprgoupn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2dq1caF_JtSUwDVNbwH4zCrPdmgE6Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841466502573-staa8rc16umi9m1k41u08re4aprgoupn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
