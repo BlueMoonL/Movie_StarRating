@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.1" />
+        <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1" />
         <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/drawable/ic_dashboard_black_24.xml" value="0.2855" />
         <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
         <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
@@ -12,6 +14,8 @@
         <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/layout/item_featured_movie.xml" value="0.1" />
+        <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/layout/item_movie.xml" value="0.1" />
         <entry key="..\:/Users/leewanhee/Desktop/Kotlin/CH29-MovieStarRating/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1" />
       </map>
     </option>

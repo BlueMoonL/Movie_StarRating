@@ -2,7 +2,9 @@ package com.bluemoonl.ch29_movie_starrating
 
 import android.app.Application
 import com.bluemoonl.ch29_movie_starrating.di.appModule
-import com.bluemoonl.ch29_movie_starrating.utility.MovieDataGenerator
+import com.bluemoonl.ch29_movie_starrating.di.dataModule
+import com.bluemoonl.ch29_movie_starrating.di.domainModule
+import com.bluemoonl.ch29_movie_starrating.di.presenterModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
 import org.koin.core.context.startKoin
@@ -22,9 +24,7 @@ class MovieReviewApplication : Application() {
                 }
             )
             androidContext(this@MovieReviewApplication)
-            modules(appModule)
+            modules(appModule + dataModule + domainModule + presenterModule)
         }
-
-//        MovieDataGenerator().generate()
     }
 }
